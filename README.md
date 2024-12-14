@@ -46,5 +46,5 @@ This Python application allows users to copy files with specific extensions from
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/file-copy-app.git
+   git clone https://github.com/Hasnain1385/File-Copier-with-extension-scanner.git
    cd file-copy-app
